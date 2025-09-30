@@ -1,0 +1,2874 @@
+[
+  {
+    "codigo": "SER.EC.SER.0001",
+    "item": "Servidor 1",
+    "categoria": "Equipos de Computación",
+    "responsable": "Boris Cardona, Santos Limachi, Moises Callejas, Jhonny Antezana, Rimber Limachi, Kevin Padilla, Daniel Reyna",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.SER.0002",
+    "item": "Servidor 2",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona, Santos Limachi, Moises Callejas, Jhonny Antezana, Rimber Limachi, Kevin Padilla, Daniel Reyna",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.SER.0003",
+    "item": "Servidor 3 ",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona, Santos Limachi, Moises Callejas, Jhonny Antezana",
+    "fecha_adquisicion": "09/07/2019",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro con Rojo",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.SER.0004",
+    "item": "Servidor 4",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "04/08/2020",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.SER.0005",
+    "item": "Servidor 5",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona, Santos Limachi, Moises Callejas, Jhonny Antezana, Rimber Limachi",
+    "fecha_adquisicion": "06/07/2021",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.DSK.0005",
+    "item": "Servidor 6",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona, Moises Callejas, Paulo Numbela, Rene Rendon, Patricia Cossio",
+    "fecha_adquisicion": "14/10/2019",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.EC.DSK.0001",
+    "item": "Computadora de Escritorio",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "19/04/2018",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.DSK.0001",
+    "item": "Computadora de Escritorio",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona",
+    "fecha_adquisicion": "04/08/2020",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.DSK.0002",
+    "item": "Computadora de Escritorio",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Santos Limachi",
+    "fecha_adquisicion": "28/02/2019",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.DSK.0003",
+    "item": "Computadora de Escritorio",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Jhonny Antezana",
+    "fecha_adquisicion": "07/11/2018",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.DSK.0006",
+    "item": "Computadora de Escritorio",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Rimber Limachi",
+    "fecha_adquisicion": "04/08/2020",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.DSK.0007",
+    "item": "Computadora de Escritorio",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "04/08/2020",
+    "ubicacion": "Administracion",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.DSK.0008",
+    "item": "Computadora de Escritorio",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Administracion",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.DSK.0009",
+    "item": "Computadora de Escritorio",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.DSK.0010",
+    "item": "Computadora de Escritorio",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.DSK.0011",
+    "item": "Computadora de Escritorio",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Distintas (Distintos Componentes)",
+    "modelo": "Distintos",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.EC.LAP.0001",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "25/06/2020",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "Dell",
+    "modelo": "G515",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.EC.LAP.0002",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "25/06/2020",
+    "ubicacion": "Dirección Ejecutiva",
+    "marca": "Dell",
+    "modelo": "I5575",
+    "color": "Cafe Claro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.EC.LAP.0001",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "30/09/2020",
+    "ubicacion": "Dirección Ejecutiva",
+    "marca": "HP",
+    "modelo": "Spectre",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "FIN.EC.LAP.0002",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Rene Rendon",
+    "fecha_adquisicion": "16/10/2020",
+    "ubicacion": "Innovacion",
+    "marca": "MSI",
+    "modelo": "GF75 Thin",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "FIN.EC.LAP.0003",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "16/10/2020",
+    "ubicacion": "Administracion",
+    "marca": "MSI",
+    "modelo": "GF75 Thin",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.EC.LAP.0001",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "19/07/2019",
+    "ubicacion": "Administracion",
+    "marca": "ASUS",
+    "modelo": "ROG Strix",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.EC.LAP.0002",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Santos Limachi",
+    "fecha_adquisicion": "21/02/2020",
+    "ubicacion": "SPIM Privado",
+    "marca": "Lenovo",
+    "modelo": "Legion",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.EC.LAP.0001",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Jhonny Antezana",
+    "fecha_adquisicion": "16/10/2020",
+    "ubicacion": "Desarrollo",
+    "marca": "MSI",
+    "modelo": "Leopard GL75",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.EC.LAP.0002",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Moises Callejas",
+    "fecha_adquisicion": "16/10/2020",
+    "ubicacion": "Soporte Tecnico",
+    "marca": "MSI",
+    "modelo": "Leopard GL75",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.EC.LAP.0003",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Patricia Cossio",
+    "fecha_adquisicion": "16/10/2020",
+    "ubicacion": "Innovacion",
+    "marca": "MSI",
+    "modelo": "Leopard GL75",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.EC.MON.0001",
+    "item": "Monitor 29\"",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "19/04/2018",
+    "ubicacion": "Direccion Ejecutiva",
+    "marca": "ASUS",
+    "modelo": "No Definido",
+    "color": "Cafe Claro con Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.EC.MON.0001",
+    "item": "Monitor 22\"",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona",
+    "fecha_adquisicion": "07/11/2018",
+    "ubicacion": "SPIM Publico",
+    "marca": "Samsung",
+    "modelo": "Generico",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.EC.MON.0002",
+    "item": "Monitor 22\"",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Santos Limachi",
+    "fecha_adquisicion": "28/09/2019",
+    "ubicacion": "SPIM Privado",
+    "marca": "AOC",
+    "modelo": "Generico",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.MON.0001",
+    "item": "Monitor 19\"",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Personal SPIM Publico, SPIM PRivado, Desarrollo y Soporte Técnico",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Sala de Servidores",
+    "marca": "LG",
+    "modelo": "Generico",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.MON.0002",
+    "item": "Monitor 19\"",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Personal SPIM Publico, SPIM PRivado, Desarrollo y Soporte Técnico",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Sala de Servidores",
+    "marca": "LG",
+    "modelo": "Generico",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.MON.0003",
+    "item": "Monitor 19\"",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Personal SPIM Publico, SPIM PRivado, Desarrollo y Soporte Técnico",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Sala de Servidores",
+    "marca": "LG",
+    "modelo": "Generico",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.MON.0004",
+    "item": "Monitor 19\"",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Personal SPIM Publico, SPIM PRivado, Desarrollo y Soporte Técnico",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Sala de Servidores",
+    "marca": "LG",
+    "modelo": "Generico",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.MON.0005",
+    "item": "Monitor 19\"",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Personal SPIM Publico, SPIM PRivado, Desarrollo y Soporte Técnico",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Sala de Servidores",
+    "marca": "LG",
+    "modelo": "Generico",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.EC.PRI.0001",
+    "item": "Impresora Multifuncional",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "01/08/2017",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "Epson",
+    "modelo": "L395",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.EC.PRI.0001",
+    "item": "Impresora Multifuncional",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Marcos Pereira, Daniel Reyna",
+    "fecha_adquisicion": "27/01/2021",
+    "ubicacion": "Administracion",
+    "marca": "Epson",
+    "modelo": "L3150",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.EC.HDD.0004",
+    "item": "Disco Duro Externo 8TB",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona",
+    "fecha_adquisicion": "09/03/2017",
+    "ubicacion": "SPIM Publico",
+    "marca": "Seagate",
+    "modelo": "Generico",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.SWT.0001",
+    "item": "Switch 50 Puertos",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "11/08/2020",
+    "ubicacion": "Sala de Servidores",
+    "marca": "CISCO",
+    "modelo": "SG250-50 Smart Gigabit",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.PHO.0002",
+    "item": "Switch 50 Puertos",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas, Danitza Garcia, Boris Cardona, Santos Limachi",
+    "fecha_adquisicion": "03/03/2018",
+    "ubicacion": "Experiencia del Cliente, Atencion al Cliente Preventa, SPIM Publico, SPIM Privado",
+    "marca": "Panasonic",
+    "modelo": "KX-TGC223",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.STV.0001",
+    "item": "Smart TV 65\"",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "24/01/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "Sony",
+    "modelo": "NN",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.STV.0001",
+    "item": "Smart TV 55\"",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "24/01/2020",
+    "ubicacion": "Cocina 15D",
+    "marca": "Samsung",
+    "modelo": "NN",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.REF.0001",
+    "item": "Refrigerador Mediano",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "20/02/2020",
+    "ubicacion": "Cocina 15D",
+    "marca": "Mabe",
+    "modelo": "NN",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+  
+  {
+    "codigo": "ADM.ME.MWO.0001",
+    "item": "Horno Microondas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "13/04/2019",
+    "ubicacion": "Cocina 15D",
+    "marca": "Brugmann",
+    "modelo": "No Definido",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.DEV.0002",
+    "item": "Dispositivo Multimedia",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Marketing",
+    "marca": "Echo Show",
+    "modelo": "8",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.DEV.0003",
+    "item": "Dispositivo Multimedia",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Administracion",
+    "marca": "Echo Show",
+    "modelo": "8",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.DEV.0008",
+    "item": "Dispositivo de Red Inalambrica Tipo Mesh",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Eero",
+    "modelo": "J010011",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.DEV.00089",
+    "item": "Dispositivo de Red Inalambrica Tipo Mesh",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Pasillo Oficina 15D",
+    "marca": "Eero",
+    "modelo": "J010011",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.DEV.0010",
+    "item": "Dispositivo de Red Inalambrica Tipo Mesh",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "Eero",
+    "modelo": "J010011",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.ME.DEV.0001",
+    "item": "Dispositivo Multimedia",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "Echo Show",
+    "modelo": "8",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.DEV.0001",
+    "item": "Dispositivo Multimedia",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Rene Rendon",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Innovacion",
+    "marca": "Echo Show",
+    "modelo": "8",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.DEV.0002",
+    "item": "Dispositivo Multimedia",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Paulo Numbela",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Innovacion",
+    "marca": "Echo Show",
+    "modelo": "8",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.DEV.0001",
+    "item": "Dispositivo Multimedia",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "SPIM Publico",
+    "marca": "Echo Show",
+    "modelo": "5",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.DEV.0002",
+    "item": "Dispositivo Multimedia",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Santos Limachi",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "SPIM Privado",
+    "marca": "Echo Show",
+    "modelo": "5",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.DEV.0001",
+    "item": "Dispositivo Multimedia",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Moises Callejas",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Soporte Tecnico",
+    "marca": "Echo Show",
+    "modelo": "5",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.DEV.0002",
+    "item": "Dispositivo Multimedia",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Jhonny Antezana",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Desarrollo",
+    "marca": "Echo Show",
+    "modelo": "5",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.DEV.0003",
+    "item": "Dispositivo Multimedia",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Rimber Limachi",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Desarrollo",
+    "marca": "Echo Show",
+    "modelo": "5",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EC.BKS.0001",
+    "item": "Equipo NAS para Respaldo de Informacion",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona, Santos Limachi, Moises Callejas, Jhonny Antezana, Rimber Limachi, Daniel Reyna",
+    "fecha_adquisicion": "08/02/2021",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Synology",
+    "modelo": "DS920+",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.0001",
+    "item": "Archivero Melamínico de 4 Niveles",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "03/07/2017",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Azul",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00041",
+    "item": "Sofa para Tres Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Pasillo Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00042",
+    "item": "Sofa para Dos Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Pasillo Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00043",
+    "item": "Sofa para Una Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.0005",
+    "item": "Escritorio Melamínico Tipo L",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Rene Rendon",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Azul",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.0006",
+    "item": "Escritorio Melamínico Tipo L",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Paulo Numbela",
+    "fecha_adquisicion": "Desconocido",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Azul",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00101",
+    "item": "Comedor de Juego para Cuatro Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "23/12/2019",
+    "ubicacion": "Terraza Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00102",
+    "item": "Silla de Juego de Comedor para Cuatro Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "23/12/2019",
+    "ubicacion": "Terraza Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00103",
+    "item": "Silla de Juego de Comedor para Cuatro Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "23/12/2019",
+    "ubicacion": "Terraza Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00104",
+    "item": "Silla de Juego de Comedor para Cuatro Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "23/12/2019",
+    "ubicacion": "Terraza Sala de Reuniones Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00104",
+    "item": "Silla de Juego de Comedor para Cuatro Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "23/12/2019",
+    "ubicacion": "Terraza Sala de Reuniones Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00111",
+    "item": "Mesa Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "23/12/2019",
+    "ubicacion": "Deposito Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00112",
+    "item": "Banca Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "23/12/2019",
+    "ubicacion": "Deposito Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.00113",
+    "item": "Banca Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "23/12/2019",
+    "ubicacion": "Deposito Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.ME.FUR.0002",
+    "item": "Silla Fija Forrada en Tela",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "Desconocida",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0001",
+    "item": "Silla Giratoria Pequeña Forrada en Tela",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "Desconocida",
+    "ubicacion": "Sala de Servidores",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.ME.FUR.0001",
+    "item": "Silla Fija Forrada en Tela",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "Desconocida",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.0012",
+    "item": "Silla Giratoria Grande Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.0013",
+    "item": "Silla Giratoria Grande Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Administracion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.ME.FUR.0002",
+    "item": "Silla Giratoria Grande Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0001",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0002",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0003",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0004",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0005",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0006",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0007",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0008",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0009",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0010",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "FIN.ME.FUR.0001",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Rimber Limachi",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "SPIM Publico",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.ME.FUR.0003",
+    "item": "Silla Fija Grande Delgada Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "SPIM Publico",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "FIN.ME.FUR.0002",
+    "item": "Silla Giratoria Mediana Forrada en Tela",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "SPIM Publico",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "FIN.ME.FUR.0002",
+    "item": "Silla Giratoria Mediana Forrada en Tela",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "SPIM Publico",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "FIN.ME.FUR.0003",
+    "item": "Silla Giratoria Mediana Forrada en Tela",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Santos Limachi",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "SPIM Privado",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0007",
+    "item": "Silla Fija Grande Voluminosa Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0008",
+    "item": "Silla Fija Grande Voluminosa Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0001",
+    "item": "Silla Fija Grande Voluminosa Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Jhonny Antezana",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Desarrollo",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0002",
+    "item": "Silla Fija Grande Voluminosa Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Moises Callejas",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Soporte Tecnico",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0003",
+    "item": "Silla Fija Grande Voluminosa Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0004",
+    "item": "Silla Fija Grande Voluminosa Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0005",
+    "item": "Silla Fija Grande Voluminosa Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0006",
+    "item": "Silla Fija Grande Voluminosa Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "27/02/2020",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0007",
+    "item": "Mueble Melaminico Esquinero",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Jhonny Antezana, Moises Callejas, Rimber Limachi",
+    "fecha_adquisicion": "02/07/2020",
+    "ubicacion": "Sistemas B",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco y Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0008",
+    "item": "Repisa Melaminica de Tres Niveles",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Jhonny Antezana, Moises Callejas, Rimber Limachi",
+    "fecha_adquisicion": "02/07/2020",
+    "ubicacion": "Sistemas B",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0009",
+    "item": "Mueble Melaminico Tipo Cubiculo para Dos Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Jhonny Antezana, Moises Callejas",
+    "fecha_adquisicion": "02/07/2020",
+    "ubicacion": "Sistemas B",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0010",
+    "item": "Mueble Melaminico Tipo Cubiculo para Dos Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "02/07/2020",
+    "ubicacion": "Sistemas B",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.ME.FUR.0011",
+    "item": "Mueble Melaminico Tipo Cubiculo para Dos Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Rimber Limachi",
+    "fecha_adquisicion": "02/07/2020",
+    "ubicacion": "Sistemas B",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0011",
+    "item": "Mueble Melaminico Esquinero",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "02/07/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0012",
+    "item": "Mueble Melaminico Esquinero",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "02/07/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0013",
+    "item": "Repisa Melaminica de Tres Niveles",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "02/07/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0014",
+    "item": "Repisa Melaminica de Tres Niveles",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "02/07/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "REU.ME.FUR.0015",
+    "item": "Mesa Melamínica de Reuniones para 10 Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "02/07/2020",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0009",
+    "item": "Escritorio Melamínico Compartido para Dos Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona, Santos Limachi",
+    "fecha_adquisicion": "18/08/2020",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0010",
+    "item": "Repisa Melaminica de Tres Niveles",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona, Santos Limachi",
+    "fecha_adquisicion": "18/08/2020",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0011",
+    "item": "Mueble Melamínico de Pared",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona, Santos Limachi",
+    "fecha_adquisicion": "18/08/2020",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0012",
+    "item": "Mueble Melamínico de Pared",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona, Santos Limachi",
+    "fecha_adquisicion": "18/08/2020",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "FIN.ME.FUR.0004",
+    "item": "Escritorio Melamínico Compartido para Dos Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "18/08/2020",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "FIN.ME.FUR.0005",
+    "item": "Repisa Melamínica de Tres Niveles",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "18/08/2020",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.ME.FUR.0003",
+    "item": "Escritorio Melamínico Tipo L",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "01/09/2020",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Azul y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.ME.FUR.0004",
+    "item": "Mueble Melamínico Esquinero",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "01/09/2020",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.ME.FUR.0005",
+    "item": "Mueble Melaminico Esquinero",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "01/09/2020",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.ME.FUR.0005",
+    "item": "Repisa Melaminica de Tres Niveles",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "01/09/2020",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.ME.FUR.0006",
+    "item": "Contenedor Melamínico de Luminaria para Techo",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "01/09/2020",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Azul",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.ME.FUR.0006",
+    "item": "Mueble Melamínico Colgante para Pared",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "01/09/2020",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.ME.FUR.0004",
+    "item": "Mueble Melamínico para Servidores o Computadoras de Escritorio",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona, Santos Limachi, Moises Callejas, Jhonny Antezana, Rimber Limachi, Daniel Reyna",
+    "fecha_adquisicion": "01/09/2020",
+    "ubicacion": "Sala de Servidores",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Azul",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.ME.FUR.0005",
+    "item": "Mueble Melamínico para Servidores o Computadoras de Escritorio",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona, Santos Limachi, Moises Callejas, Jhonny Antezana, Rimber Limachi, Daniel Reyna",
+    "fecha_adquisicion": "01/09/2020",
+    "ubicacion": "Sala de Servidores",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Azul",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.ME.FUR.0006",
+    "item": "Mueble Melamínico para Servidores o Computadoras de Escritorio",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona, Santos Limachi, Moises Callejas, Jhonny Antezana, Rimber Limachi, Daniel Reyna",
+    "fecha_adquisicion": "01/09/2020",
+    "ubicacion": "Sala de Servidores",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Azul",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.ME.FUR.0007",
+    "item": "Mueble Melamínico para Servidores o Computadoras de Escritorio",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Boris Cardona, Santos Limachi, Moises Callejas, Jhonny Antezana, Rimber Limachi, Daniel Reyna",
+    "fecha_adquisicion": "01/09/2020",
+    "ubicacion": "Sala de Servidores",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Azul",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.ME.FUR.0008",
+    "item": "Mueble Melaminico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "10/10/2020",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Azul y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SER.EI.ACS.0001",
+    "item": "Equipo de Aire Acondicionado",
+    "categoria": "Equipos e Instalaciones",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "06/03/2019",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Whirlpool",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.FUR.0006",
+    "item": "Silla Giratoria Grande Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Gabriel Zegarra",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Marketing",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.FUR.0007",
+    "item": "Silla Giratoria Grande Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Rene Rendon",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.FUR.0008",
+    "item": "Silla Giratoria Grande Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Paulo Numbela",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.FUR.0009",
+    "item": "Silla Giratoria Grande Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Adriana Raya",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Marketing",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.FUR.0010",
+    "item": "Silla Giratoria Grande Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Marcos Pereira",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Administracion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.FUR.0011",
+    "item": "Silla Giratoria Grande Forrada en Cuero Sintetico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Administracion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.0014",
+    "item": "Silla para Visitas Forrada en Tela",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.0015",
+    "item": "Silla para Visitas Forrada en Tela",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0013",
+    "item": "Silla para Visitas de Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0014",
+    "item": "Silla para Visitas de Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0015",
+    "item": "Silla para Visitas de Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0016",
+    "item": "Silla para Visitas de Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0017",
+    "item": "Silla para Visitas de Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIA.ME.FUR.0018",
+    "item": "Silla para Visitas de Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "16/12/2021",
+    "ubicacion": "Sistemas A",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.0016",
+    "item": "Estante Grande con Mueble en Forma de S Melamínico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Danitza Garcia",
+    "fecha_adquisicion": "20/12/2021",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.0017",
+    "item": "Mueble Melamínico para Recepcionista",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "20/12/2021",
+    "ubicacion": "Pasillo Ingreso Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "PEX.ME.FUR.0018",
+    "item": "MMueble Melamínico en Forma de S",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "20/12/2021",
+    "ubicacion": "Pasillo Ingreso Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "PEX.ME.FUR.0019",
+    "item": "MMueble Melamínico en Forma de S",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "20/12/2021",
+    "ubicacion": "Pasillo Ingreso Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "PEX.ME.FUR.0020",
+    "item": "MMueble Melamínico en Forma de S",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "20/12/2021",
+    "ubicacion": "Pasillo Ingreso Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "PEX.ME.FUR.0021",
+    "item": "Mueble Melamínico en Forma de S",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "20/12/2021",
+    "ubicacion": "Pasillo Ingreso Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.EI.GLB.0001",
+    "item": "Pizarra de Cristal Templado",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal" ,
+    "fecha_adquisicion": "30/12/2021",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Transaparente",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.EC.LAP.0004",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Gabriel Zegarra" ,
+    "fecha_adquisicion": "21/01/2022",
+    "ubicacion": "Marketing",
+    "marca": "MSI",
+    "modelo": "GE 76 Raider",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.EC.LAP.0005",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Adriana Raya" ,
+    "fecha_adquisicion": "21/01/2022",
+    "ubicacion": "Marketing",
+    "marca": "MSI",
+    "modelo": "GE 76 Raider",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.EC.LAP.0006",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Karina Centellas" ,
+    "fecha_adquisicion": "21/01/2022",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "MSI",
+    "modelo": "GE 76 Raider",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.EC.LAP.0007",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Paulo Numbela" ,
+    "fecha_adquisicion": "21/01/2022",
+    "ubicacion": "Innovacion",
+    "marca": "MSI",
+    "modelo": "GE 76 Raider",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.STV.0001",
+    "item": "Smart TV 55\"",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal" ,
+    "fecha_adquisicion": "28/03/2022",
+    "ubicacion": "Marketing",
+    "marca": "LG",
+    "modelo": "4k UHD",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.REF.0001",
+    "item": "Frigobar",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal" ,
+    "fecha_adquisicion": "28/03/2022",
+    "ubicacion": "Innovacion",
+    "marca": "Kernig",
+    "modelo": "No Especificado",
+    "color": "Plata",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.MWO.0001",
+    "item": "Horno Microondas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal" ,
+    "fecha_adquisicion": "28/03/2022",
+    "ubicacion": "Innovacion",
+    "marca": "Oster",
+    "modelo": "No Especificado",
+    "color": "Plata y Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "SIB.EC.LAP.0004",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Rimber Limachi" ,
+    "fecha_adquisicion": "07/04/2022",
+    "ubicacion": "Sistemas B",
+    "marca": "MSI",
+    "modelo": "Leopard",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.EC.LAP.0003",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Pablo Rodriguez" ,
+    "fecha_adquisicion": "07/04/2022",
+    "ubicacion": "No Especificada",
+    "marca": "ASUS",
+    "modelo": "Zenbook",
+    "color": "Azul",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.EC.MON.0002",
+    "item": "Monitor 24\"",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Daniel Reyna" ,
+    "fecha_adquisicion": "05/04/2022",
+    "ubicacion": "Administracion",
+    "marca": "Samsung",
+    "modelo": "S24F350FHL",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "MKT.EC.MON.0001",
+    "item": "Monitor 24\"",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Karina Centellas" ,
+    "fecha_adquisicion": "05/04/2022",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "Samsung",
+    "modelo": "S24F350FHL",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.APP.0001",
+    "item": "Atemperador de Agua",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal" ,
+    "fecha_adquisicion": "05/04/2022",
+    "ubicacion": "Innovacion",
+    "marca": "Oster",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.SCA.0001",
+    "item": "Escaner Portatil",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Daniel Reyna" ,
+    "fecha_adquisicion": "06/06/2022",
+    "ubicacion": "Administracion",
+    "marca": "Brother",
+    "modelo": "DS-640",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.PHO.0003",
+    "item": "Teléfono Inalámbrico",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal" ,
+    "fecha_adquisicion": "14/10/2022",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Panasonic",
+    "modelo": "KX-TGL430",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "INN.ME.FUR.0012",
+    "item": "Escritorio Compartido para Seis u Ocho Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Adriana Raya, Gabriel Zegarra",
+    "fecha_adquisicion": "13/05/2022",
+    "ubicacion": "Marketing",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.VAC.0001",
+    "item": "Aspiradora",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "25/10/2022",
+    "ubicacion": "Direccion Ejecutiva",
+    "marca": "Karcher",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.ME.FUR.0018",
+    "item": "Sofá Pequeño para Dos Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "14/01/2022",
+    "ubicacion": "Cocina 15D",
+    "marca": "No Especificada"  ,
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FRW-1",
+    "item": "Firewall",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "26/04/2023",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Hillstone",
+    "modelo": "SG-6000-A200-IN12",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-SPH-1",
+    "item": "Smartphone",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Adriana Raya",
+    "fecha_adquisicion": "27/06/2023",
+    "ubicacion": "Marketing",
+    "marca": "Realme",
+    "modelo": "C55",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-LAP-1",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Paulo Numbela",
+    "fecha_adquisicion": "04/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "MSI",
+    "modelo": "Katana GF76",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-1",
+    "item": "Mesa Rectangular Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "15/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-2",
+    "item": "Mesa Rectangular Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "15/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-3",
+    "item": "Mesa Rectangular Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "15/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-4",
+    "item": "Mesa Rectangular Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "15/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-5",
+    "item": "Mesa Rectangular Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "15/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-6",
+    "item": "Mesa Rectangular Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "15/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-7",
+    "item": "Mesa Rectangular Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "15/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-8",
+    "item": "Mesa Rectangular Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "15/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-9",
+    "item": "Mesa Rectangular Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "15/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-10",
+    "item": "Mesa Rectangular Plegable",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "15/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-11",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-12",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-13",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-14",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-15",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-16",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-17",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-18",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-19",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-20",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-21",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-22",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-23",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-24",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-25",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-26",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-27",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-28",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-29",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-30",
+    "item": "Silla Forrada en Cuero Sintético",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "18/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-STV-1",
+    "item": "Smart TV 55\"" ,
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "16/08/2023",
+    "ubicacion": "Administracion",
+    "marca": "LG",
+    "modelo": "4k UHD",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-STV-2",
+    "item": "Smart TV 65\"" ,
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "16/08/2023",
+    "ubicacion": "Innovacion",
+    "marca": "LG",
+    "modelo": "4k UHD",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-31",
+    "item": "Mueble Melamínico Tipo S" ,
+    "categoria": "Muebles y Enseres",
+    "responsable": "Adriana Raya, Gabriel Zegarra",
+    "fecha_adquisicion": "23/08/2023",
+    "ubicacion": "Marketing",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-32",
+    "item": "Repisa Melaminica Tipo Cajón",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "23/08/2023",
+    "ubicacion": "Marketing",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-33",
+    "item": "Mesa de Reuniones Melamínica",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Marcos Pereira",
+    "fecha_adquisicion": "23/08/2023",
+    "ubicacion": "Administracion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-34",
+    "item": "Escritorio Melamínico Tipo L",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Daniel Reyna",
+    "fecha_adquisicion": "01/09/2023",
+    "ubicacion": "Administracion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-35",
+    "item": "Escritorio Melamínico Tipo L",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "01/09/2023",
+    "ubicacion": "Administracion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-SER-1",
+    "item": "Servidor 7",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Jhonny Antezana, Kevin Padilla, Daniel Reyna",
+    "fecha_adquisicion": "26/09/2023",
+    "ubicacion": "Administracion",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris y Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-DEV-1.1",
+    "item": "Dispositivo de Red Inalambrica Tipo Mesh",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "09/11/2023",
+    "ubicacion": "Marketing",
+    "marca": "TP Link",
+    "modelo": "Deco S7",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+  
+  {
+    "codigo": "DTX-FA-DEV-1.2",
+    "item": "Dispositivo de Red Inalambrica Tipo Mesh",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "09/11/2023",
+    "ubicacion": "Innovacion",
+    "marca": "TP Link",
+    "modelo": "Deco S7",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-DEV-1.3",
+    "item": "Dispositivo de Red Inalambrica Tipo Mesh",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "09/11/2023",
+    "ubicacion": "Administracion",
+    "marca": "TP Link",
+    "modelo": "Deco S7",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-SPH-2",
+    "item": "Smartphone",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Karina Centellas",
+    "fecha_adquisicion": "08/01/2024",
+    "ubicacion": "Experiencia del Cliente",
+    "marca": "Honor",
+    "modelo": "90 Lite",
+    "color": "Negro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-ACS-1",
+    "item": "Equipo de Aire Acondicionado",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Todo el Personal",
+    "fecha_adquisicion": "07/02/2024",
+    "ubicacion": "Sala de Reuniones",
+    "marca": "TOSOT",
+    "modelo": "No Especificado",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-37",
+    "item": "Escritorio Melamínico para Cuatro Pers onas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Danitza Garcia",
+    "fecha_adquisicion": "24/04/2024",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-38",
+    "item": "Escritorio Melamínico para Cuatro Personas",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Sin Asignar",
+    "fecha_adquisicion": "24/04/2024",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-FUR-39",
+    "item": "Mampara Divisoria Móvil Melamínica",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Danitza Garcia",
+    "fecha_adquisicion": "15/05/2024",
+    "ubicacion": "Oficina 15D",
+    "marca": "No Especificada",
+    "modelo": "No Especificado",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-LAP-2",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Marcos Pereira",
+    "fecha_adquisicion": "09/04/2024",
+    "ubicacion": "Administracion",
+    "marca": "MSI",
+    "modelo": "Cyborg 15",
+    "color": "Gris Oscuro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-LAP-3",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Danitza Garcia",
+    "fecha_adquisicion": "09/04/2024",
+    "ubicacion": "Oficina 15D",
+    "marca": "Dell",
+    "modelo": "Inspiron 615",
+    "color": "Gris",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-LAP-4",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Boris Cardona",
+    "fecha_adquisicion": "15/03/2024",
+    "ubicacion": "Sistemas A",
+    "marca": "MSI",
+    "modelo": "Raider GE76",
+    "color": "Gris Oscuro",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-DEV-2.1",
+    "item": "Dispositivo de Red Inalambrica Tipo Mesh",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "15/03/2024",
+    "ubicacion": "Sala de Servidores",
+    "marca": "Eero",
+    "modelo": "J010011",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-DEV-2.2",
+    "item": "Dispositivo de Red Inalambrica Tipo Mesh",
+    "categoria": "Muebles y Enseres",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "15/03/2024",
+    "ubicacion": "Pasillo Ingreso Oficina 15D",
+    "marca": "Eero",
+    "modelo": "J010011",
+    "color": "Blanco",
+    "estado": "Operativo"
+  },
+
+  {
+    "codigo": "DTX-FA-LAP-5",
+    "item": "Computadora Portatil",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Samir Homsi",
+    "fecha_adquisicion": "15/03/2024",
+    "ubicacion": "Direccion Ejecutiva",
+    "marca": "Asus",
+    "modelo": "Zenbook Q539Z",
+    "color": "Negro",
+    "estado": "Operativo"
+  }
+]

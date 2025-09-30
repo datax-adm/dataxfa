@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Información de Activos Fijos DATAX</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 10px;
+      background: #f5f5f5;
+      margin: 0;
+    }
+
+    .logo-container {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    .logo {
+      width: 100%;
+      max-width: 200px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      max-width: 500px;
+      width: 100%;
+      margin: auto;
+      box-sizing: border-box;
+    }
+
+    h2 {
+      color: #2E3B4E;
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 15px;
+    }
+
+    p {
+      margin: 6px 0;
+      font-size: 16px;
+      padding: 8px 0;
+      border-bottom: 1px solid #ddd; /* Línea suave */
+      transition: background 0.2s ease;
+    }
+
+    p:last-child {
+      border-bottom: none; /* Quita la línea de la última fila */
+    }
+
+    p:hover {
+      background: #f0f4f8; /* Efecto hover suave */
+    }
+
+    strong {
+      color: #2E3B4E;
+    }
+
+    .not-found {
+      color: red;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    @media (max-width: 480px) {
+      .card { padding: 15px; }
+      p { font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="logo-container">
+    <img src="img/DATAX_Logo.jpg" alt="Logo DATAX" class="logo">
+  </div>
+  
+  <div class="card" id="info">
+    <h2>Información de Activo Fijo</h2>
+  </div>
+
+  <script>
+    function getParameterByName(name) {
+      const url = new URL(window.location.href);
+      return url.searchParams.get(name);
+    }
+
+    async function mostrarActivo() {
+      const codigo = getParameterByName("codigo");
+      const contenedor = document.getElementById("info");
+
+      if (!codigo) {
+        contenedor.innerHTML += "<p class='not-found'>⚠️ No se especificó un código de activo fijo.</p>";
+        return;
+      }
+
+      try {
+        const response = await fetch("assets.json");
+        const activos = await response.json();
+        const activo = activos.find(item => item.codigo === codigo);
+
+        if (activo) {
+          contenedor.innerHTML += `
+            <p><strong>Código:</strong> ${activo.codigo}</p>
+            <p><strong>Item:</strong> ${activo.item}</p>
+            <p><strong>Categoría:</strong> ${activo.categoria}</p>
+            <p><strong>Responsable:</strong> ${activo.responsable}</p>
+            <p><strong>Fecha de adquisición:</strong> ${activo.fecha_adquisicion}</p>
+            <p><strong>Ubicación:</strong> ${activo.ubicacion}</p>
+            <p><strong>Marca:</strong> ${activo.marca}</p>
+            <p><strong>Modelo:</strong> ${activo.modelo}</p>
+            <p><strong>Color:</strong> ${activo.color}</p>
+            <p><strong>Estado:</strong> ${activo.estado}</p>
+          `;
+        } else {
+          contenedor.innerHTML += `<p class='not-found'>❌ Activo con código <b>${codigo}</b> no encontrado.</p>`;
+        }
+      } catch (error) {
+        contenedor.innerHTML += `<p class='not-found'>⚠️ Error al cargar la información.</p>`;
+      }
+    }
+
+    mostrarActivo();
+  </script>
+</body>
+</html>
