@@ -2870,5 +2870,18 @@
     "modelo": "Zenbook Q539Z",
     "color": "Negro",
     "estado": "Operativo"
+  },
+
+  {
+    "codigo": "ADM.EC.PRI.0002",
+    "item": "Impresora",
+    "categoria": "Equipos de Computacion",
+    "responsable": "Mauricio Jordan",
+    "fecha_adquisicion": "25/06/2019",
+    "ubicacion": "Otras Instalaciones",
+    "marca": "EPSON",
+    "modelo": "L120",
+    "color": "Negro",
+    "estado": "Operativo"
   }
 ]
